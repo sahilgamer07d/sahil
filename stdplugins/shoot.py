@@ -13,5 +13,5 @@ async def killing (killed):
         if await killed.get_reply_message():
             await killed.edit(
                 "Targeted user killed by Headshot 😈......\n"
-  "#Sad_Reacts_Onli\n"
+  "#Sahil\n"
             )
