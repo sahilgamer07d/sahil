@@ -9,21 +9,21 @@ from uniborg.util import admin_cmd
 async def _(event):
     if event.fwd_from:
         return
-    mentions =       "i am ON My Mastor 
+    mentions =       "i am ON My Mastor Sahil Ka bot hu 24x7 online rahna hi he
 
-Telethon version: 1.10.10 
 
-Python: 3.8.3 
---------------------------- 
-User: is the one who is using it 
 
-Creator: Sahil 
 
-Owner: Sahil Gamer
 
-Userbot: @Sahilofficial555
 
-Note :- Sahil ka bot hu 24x7 online hi rahta hu don't worry"
+
+
+
+
+
+
+
+"
     chat = await event.get_input_chat()
     async for x in borg.iter_participants(chat, filter=ChannelParticipantsAdmins):
         mentions += f""
