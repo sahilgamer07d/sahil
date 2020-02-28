@@ -30,13 +30,13 @@ async def _(event):
 
         animation_chars = [
 
-            "👑3Cube👑👑👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑",
+            "👑Sahil👑👑👑👑Sahil👑👑Sahil👑👑Sahil👑\n👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑\n👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑\n👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑\n👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑",
 
-            "◼️👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑",
+            "◼️👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑\n👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑\n👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑\n👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑\n👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑",
 
-            "◼️◼️👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑",
+            "◼️◼️👑Sahil👑👑Sahil👑👑Sahil👑\n👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑\n👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑\n👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑\n👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑👑Sahil👑",
 
-            "◼️◼️◼️️👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑",
+            "◼️◼️◼️️👑Sahil👑👑Sahil👑\n👑Sahil👑👑Sahil👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑",
 
             "◼️◼️◼️◼️👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑",
 
@@ -46,7 +46,7 @@ async def _(event):
 
             "◼️◼️◼️◼️◼️\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑◼️\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑◼️\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑",
 
-            "◼️◼️◼️◼️◼️\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑◼️\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑◼️\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑◼️\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑",
+            "◼️◼️◼️◼️◼️\n👑Sahil👑👑3Cube👑👑3Cube👑👑3Cube👑◼️\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑◼️\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑◼️\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑",
 
             "◼️◼️◼️◼️◼️\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑◼️\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑◼️\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑◼️\n👑3Cube👑👑3Cube👑👑3Cube👑👑3Cube👑◼️",
 
