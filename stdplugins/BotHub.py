@@ -28,21 +28,15 @@ async def _(event):
 
         animation_chars = [
 
-            "B_",
+            "S_",
 
-            "BO_",
+            "Sa_",
 
-            "BOT_",
+            "Sah_",
 
-            "BOT__",
-            
-            "BOTH_",
-            
-            "BOTHU_",
-            
-            "BOTHUB", 
+            "Sahi__", 
            
-            "BOTHUB",
+            "Sahil",
 
         ]
 
@@ -73,17 +67,15 @@ async def _(event):
 
         animation_chars = [
 
-            "A_",
+            "S_",
 
-            "AR_",
+            "Sa_",
 
-            "ARM_",
+            "sah_",
 
-            "ARMO_",
+            "Sahi_",
             
-            "ARMOR_",
-            
-            "ARMOR🛡_",
+            "Sahil🛡_",
             
             ".🛡🛡🛡🛡🛡🛡🛡.",
 
@@ -187,7 +179,7 @@ async def _(event):
             
             "HERO💪🏻💪",
             
-            "💪🏻MAYUR KARANIYA💪🏻",
+            "💪🏻Sahil Gamer💪🏻",
             
         ]
 
